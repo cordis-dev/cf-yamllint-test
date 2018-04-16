@@ -2,3 +2,4 @@ whitelist_rule
   unused_enumerated
   - unused_closure_parameter
   - unneeded_break_in_switch
+  - unneeded_break_in_switch2
