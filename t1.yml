@@ -1,9 +1,7 @@
-whitelist_rule:
-  - unused_enumerated
-  - unused_closure_parameter 
-  - unneeded_break_in_switch
-  
-whitelist_rule:
-  - unused_enumerated
-
-object: {True: 1, 1: True}
+object: { key1: 4, key2: 8 } 
+some-mapping:
+key 2: v
+key 1: val
+user:
+   city-code: 0o10
+object: {True: 1, 1: True} 
