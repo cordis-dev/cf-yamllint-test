@@ -5,3 +5,5 @@ whitelist_rule:
   
 whitelist_rule:
   - unused_enumerated
+
+object: {True: 1, 1: True}
