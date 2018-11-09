@@ -1,5 +1,7 @@
-whitelist_rule
-  unused_enumerated
+whitelist_rule:
+  - unused_enumerated
   - unused_closure_parameter 
   - unneeded_break_in_switch
-  - unneeded_break_in_switch
+  
+whitelist_rule:
+  - unused_enumerated
